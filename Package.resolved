@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Logger",
+        "repositoryURL": "https://github.com/grangej/Logger.git",
+        "state": {
+          "branch": null,
+          "revision": "73a880baf6629dec58eacc49f2c24cc24d97a0d3",
+          "version": "5.2.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
